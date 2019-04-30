@@ -1,6 +1,6 @@
-# carded
+# Carded
 
-A new Flutter project.
+A new Flutter project meant to bring business cards into the digital age.
 
 ## Getting Started
 
